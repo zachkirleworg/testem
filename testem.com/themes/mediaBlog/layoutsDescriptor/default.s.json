@@ -1,0 +1,40 @@
+{
+  "layouts": [
+    [
+      "photo/photo",
+      2
+    ],
+    "layoutRoba",
+    [
+      "newspaper/thumb",
+      3
+    ],
+    "layoutRoba",
+    [
+      "newspaper/thumb",
+      1
+    ],
+    [
+      "newspaper/thumb",
+      4
+    ],
+    [
+      "newspaper/thumb",
+      4
+    ],
+    "layoutRoba",
+    [
+      "newspaper/pill",
+      1
+    ],
+    [
+      "newspaper/thumb",
+      1
+    ],
+    [
+      "newspaper/thumb",
+      4
+    ],
+    "layoutRoba"
+  ]
+}
